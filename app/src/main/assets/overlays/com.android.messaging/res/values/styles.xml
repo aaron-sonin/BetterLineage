@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BugleBaseTheme" parent="@*com.android.messaging:style/Theme.AppCompat.DayNight.DarkActionBar">
+    </style>
+    <style name="BugleTheme.ConversationListActivity" parent="@*com.android.messaging:style/BugleTheme">
+    </style>
+    <style name="BugleTheme.ConversationActivityBase" parent="@*com.android.messaging:style/BugleTheme">
+    </style>
+    <style name="ConversationComposeSendText">
+        <item name="android:textColor">#ff0000</item>
+        <item name="android:textColorHint">@color/compose_send_hint_color</item>
+    </style>
+</resources>
